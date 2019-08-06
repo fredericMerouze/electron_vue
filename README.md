@@ -1,29 +1,18 @@
-# electron-project
+# Project build in VueJs & ElectronJS
 
-## Project setup
+## 1 - Clone the project
+```
+git clone https://github.com/fredericMerouze/electron_vue.git
+```
+
+### 2 - Install dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 3 - run custom command
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm run electron
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Enjoy
